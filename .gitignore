@@ -39,3 +39,7 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# User local images to ignore
+music app image.jpeg
+music app image 2.jpeg
